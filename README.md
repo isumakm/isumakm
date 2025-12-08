@@ -7,7 +7,7 @@
 
 ### About Me
 
-**AI/ML Engineer Intern | AI & Data Science Undergraduate | Full-Stack & AI Developer**
+**AI & Data Science Undergraduate | Full-Stack & AI Developer**
 
 🎓 **AI & Data Science Student @ [RGU/IIT]**
 Passionate about **Machine Learning**, **Data Analytics**, and **Full-Stack AI Solutions**.
