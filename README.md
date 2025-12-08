@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=Hello,+I'm+Isum+Withanage+👋;Java+Software+Developer;Focusing+on+Data+Structures+and+Systems;Building+Efficient+Solutions+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=Hello,+I'm+Isum+Withanage+👋;Passionate+about+Machine+Learning;Data+Analytics+%26+Full-Stack+AI+Solutions;Innovating+and+Researching+🚀" alt="Typing SVG" />
 
 ---
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/user-attachments/assets/b208e9a6-8f35-48ae-91df-8bb8c55b8d18)
