@@ -7,10 +7,14 @@
 
 ### About Me
 
-🎓 **Artificial Intelligence & Data Science Undergraduate @ [ RGU/IIT]**
-Passionate about **Java**, **Data Structures**, and developing **Robust Systems**.
-Currently focused on learning the **Spring Boot framework** and **Database Optimization**.
-Fun fact: I write code that requires coffee to understand ☕.
+🎓 ### About Me
+
+**AI/ML Engineer Intern | AI & Data Science Undergraduate | Full-Stack & AI Developer**
+
+🎓 **AI & Data Science Student @ [RGU/IIT]**
+Passionate about **Machine Learning**, **Data Analytics**, and **Full-Stack AI Solutions**.
+Currently focused on learning **Deep Learning frameworks** and **Cloud AI services (e.g., AWS/GCP)**.
+Fun fact: I debug models with coffee and curiosity ☕.
 
 ---
 
